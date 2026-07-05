@@ -4,11 +4,9 @@ A responsive **Amazon Homepage Clone** built using **HTML5** and **CSS3**. This 
 
 ## 📸 Preview
 
-> Add screenshots here after uploading them to your repository.
-
 | Homepage |
 |----------|
-| ![Amazon Clone](amazon.png) |
+| ![Amazon Clone](Preview.png) |
 
 ---
 
